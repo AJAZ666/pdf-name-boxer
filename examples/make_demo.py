@@ -29,18 +29,18 @@ def put(page, text, x, y, size=11, center_w=None):
 # ---------- 1. 生成虚构示例 PDF ----------
 doc = fitz.open()
 page = doc.new_page(width=595, height=842)
-put(page, "XX大学信用管理学院就业指导专题讲座活动综测证明", 0, 90, size=16, center_w=595)
+put(page, "某高校就业指导专题讲座活动综测证明", 0, 90, size=16, center_w=595)
 put(page, "（示例文件 · 内容均为虚构）", 0, 115, size=10, center_w=595)
 body = [
-    "兹证实，以下同学于2026年3月1日(周日)参加由XX大学信用管理学院举",
-    "办的2026年就业指导专题讲座，按照《XX大学综合测评条例》，可在智育板",
+    "兹证实，以下同学于2026年3月1日(周日)参加由某高校举",
+    "办的2026年就业指导专题讲座，按照《某高校综合测评条例》，可在智育板",
     "块进行综测加分。情况属实，特此证明。",
 ]
 y = 165
 for line in body:
     put(page, line, 80, y)
     y += 22
-put(page, "XX大学信用管理学院", 380, 320)
+put(page, "某高校", 380, 320)
 put(page, "2026年3月2日", 400, 345)
 put(page, "参与人员名单如下", 80, 400)
 put(page, "学号", 130, 435)
@@ -127,7 +127,7 @@ cfg = {
     "tasks": [
         {
             "file": "sample_proof.pdf",
-            "title": "1. XX大学就业指导专题讲座，+1（智育1）",
+            "title": "1. 某高校就业指导专题讲座，+1（智育1）",
             "name_page": 1,
             "header_page": 1,
             "half_height": 300
