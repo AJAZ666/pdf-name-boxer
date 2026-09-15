@@ -1,0 +1,17 @@
+{
+  "pdf_dir": "examples",
+  "output": "output/综测证明_整理结果.docx",
+  "target_name": "张三",
+  "target_id": "20260001",
+  "zoom": 2.0,
+  "box_pad": 12,
+  "tasks": [
+    {
+      "file": "sample_proof.pdf",
+      "title": "1. XX大学就业指导专题讲座，+1（智育1）",
+      "name_page": 1,
+      "header_page": 1,
+      "half_height": 300
+    }
+  ]
+}

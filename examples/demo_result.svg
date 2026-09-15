@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="760" viewBox="0 0 760 760" font-family="Microsoft YaHei, SimHei, sans-serif">
+  <rect width="760" height="760" fill="#ffffff"/>
+  <text x="380" y="60" font-size="20" font-weight="bold" text-anchor="middle" fill="#000000">XX大学信用管理学院就业指导专题讲座活动综测证明</text>
+  <text x="380" y="84" font-size="12" text-anchor="middle" fill="#888888">（示例文件 · 内容均为虚构）</text>
+  <text x="80" y="130" font-size="14" fill="#000000">兹证实，以下同学于2026年3月1日(周日)参加由XX大学信用管理学院举</text>
+  <text x="80" y="156" font-size="14" fill="#000000">办的2026年就业指导专题讲座，按照《XX大学综合测评条例》，可在智育板</text>
+  <text x="80" y="182" font-size="14" fill="#000000">块进行综测加分。情况属实，特此证明。</text>
+  <text x="420" y="240" font-size="14" fill="#000000">XX大学信用管理学院</text>
+  <text x="450" y="266" font-size="14" fill="#000000">2026年3月2日</text>
+  <line x1="80" y1="320" x2="680" y2="320" stroke="#cccccc" stroke-width="1"/>
+  <text x="80" y="348" font-size="15" font-weight="bold" fill="#000000">参与人员名单如下</text>
+  <text x="140" y="385" font-size="14" fill="#000000">学号</text>
+  <text x="320" y="385" font-size="14" fill="#000000">姓名</text>
+  <line x1="80" y1="398" x2="680" y2="398" stroke="#cccccc" stroke-width="1"/>
+  <text x="140" y="425" font-size="14" fill="#000000">20250001</text><text x="320" y="425" font-size="14" fill="#000000">王小明</text>
+  <text x="140" y="455" font-size="14" fill="#000000">20250002</text><text x="320" y="455" font-size="14" fill="#000000">李小红</text>
+  <text x="140" y="485" font-size="14" fill="#000000">20260001</text><text x="320" y="485" font-size="14" fill="#000000">张三</text>
+  <rect x="295" y="465" width="90" height="32" fill="none" stroke="#ff0000" stroke-width="4"/>
+  <text x="140" y="515" font-size="14" fill="#000000">20260002</text><text x="320" y="515" font-size="14" fill="#000000">李四</text>
+  <text x="140" y="545" font-size="14" fill="#000000">20260003</text><text x="320" y="545" font-size="14" fill="#000000">王五</text>
+  <text x="380" y="620" font-size="13" fill="#666666" text-anchor="middle">自动定位姓名 → 红色方框标注 → 截取说明+表头+名字所在行</text>
+</svg>
